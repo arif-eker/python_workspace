@@ -1,0 +1,2 @@
+aaa new append new line with 'r+''
+append new line with 'a+'seek(20) append new line with 'a+'
