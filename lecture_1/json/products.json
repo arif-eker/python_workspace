@@ -1,0 +1,17 @@
+{
+  "1": {
+    "name": "IPhone 13 Pro Max",
+    "category": "Phone",
+    "price": 1200
+  },
+  "2": {
+    "name": "Xiaomi ",
+    "category": "Phone",
+    "price": 450
+  },
+  "3": {
+    "name": "Samsung Oled TV",
+    "category": "TV",
+    "price": 2700
+  }
+}
