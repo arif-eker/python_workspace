@@ -1,0 +1,23 @@
+------ Text Files ------
+* txt
+* xml
+* json
+* py
+
+--------------------------
+------ Binary Files ------
+* compiled codes
+* data files
+* video files
+* audio files
+* image files
+
+------------------------------------------------------------------------------
+
+"t" :  text file
+"b" :  binary file
+
+"r" :  read (default mode)
+"w" :  write --> If there is a file, it deletes its contents and opens it, if there is no file, it creates a new file.
+"a" :  append --> If the file exists, it does not change the file, otherwise it creates a new file.
+"+" :  read + write
