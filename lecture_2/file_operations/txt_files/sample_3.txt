@@ -1,0 +1,3 @@
+hello, writing to txt with print
+second line with no \n ...
+['123', '456']
